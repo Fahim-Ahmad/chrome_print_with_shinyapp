@@ -1,1 +1,1 @@
-# chrome_print_with_shinyapp
+# pagedown::chrome_print() with shinyapp
